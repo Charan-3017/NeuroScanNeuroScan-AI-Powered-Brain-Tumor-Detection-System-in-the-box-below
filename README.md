@@ -1,1 +1,1 @@
-# Charan-3017-NeuroScanNeuroScan-AI-Powered-Brain-Tumor-Detection-System-in-the-box-below
+# NeuroScanNeuroScan-AI-Powered-Brain-Tumor-Detection-System-in-the-box-below
